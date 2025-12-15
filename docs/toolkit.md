@@ -24,9 +24,9 @@ NATS powers microservice communication systems in fintech, telecom, IoT, and mon
 - Dependencies: Fiber, nats.go
 - Tools: git, curl
 - Ollama installed locally
-- Gemini model:
+- gemma model:
   ```bash
-  ollama pull gemini
+  ollama pull gemma3
   ```
 
 ---
