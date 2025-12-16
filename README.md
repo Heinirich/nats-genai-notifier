@@ -173,7 +173,11 @@ Snapshot:
 
 ---
 
+## 8) Demo Video
+- [Demo Video](https://drive.google.com/file/d/1CgPtzh-MLfF_rpltD0LSbgrC6hx8SJX-/view?usp=sharing)
+
 ## 8) References
+
 - Go Documentation
 - Fiber Web Framework Docs
 - NATS Official Documentation
