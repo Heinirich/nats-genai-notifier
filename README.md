@@ -1,10 +1,14 @@
 # Real-Time Event Notification Service — Toolkit Document
 
+
 ## 1) Title & Objective
 **Tech:** Go + Fiber + NATS + Local Gemini (Ollama)  
 **Objective:** Build a real-time event enrichment service that receives raw support messages, processes them using a local Gemini model via Ollama, rewrites the message, assigns a priority level (High/Medium/Low), and generates a recommended action. Output is published back to NATS as structured JSON.
 
 ---
+
+## Demo Video
+- [Demo Video](https://drive.google.com/file/d/1CgPtzh-MLfF_rpltD0LSbgrC6hx8SJX-/view?usp=sharing)
 
 ## 2) Quick Summary of the Technology
 **Go (Golang):** A fast, compiled, concurrent language ideal for backend and distributed systems.  
@@ -173,8 +177,7 @@ Snapshot:
 
 ---
 
-## 8) Demo Video
-- [Demo Video](https://drive.google.com/file/d/1CgPtzh-MLfF_rpltD0LSbgrC6hx8SJX-/view?usp=sharing)
+
 
 ## 8) References
 
